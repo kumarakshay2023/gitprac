@@ -1,1 +1,2 @@
 Initial content in main branch
+Main branch adds this conflicting line.
